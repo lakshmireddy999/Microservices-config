@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to DemoBank accounts related prod APIs "
   contactDetails:
     name: "Spirit - Product Owner"
-    email: "spirit@demobank.com"
+    email: "{cipher}d1f286050cd1f529e1b54183cd8d6fb44df8b64a87678ed053a09a5da5352589f860d2f8e6356025ceffef91b27ec0ab"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
