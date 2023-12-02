@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to DemoBank accounts related prod APIs "
+  message: "Welcome to DemoBank accounts related production APIs "
   contactDetails:
     name: "Spirit - Product Owner"
     email: "{cipher}d1f286050cd1f529e1b54183cd8d6fb44df8b64a87678ed053a09a5da5352589f860d2f8e6356025ceffef91b27ec0ab"
